@@ -1,2 +1,2 @@
 # Udemy_Mastering-RTOS-Hands-on-FreeRTOS-and-STM32Fx-with-Debugging
-Hands-on projects and debugging techniques for FreeRTOS on STM32Fx MCUs.
+This repo contains my practical exercises and assignments from the Udemy course “[Mastering RTOS: Hands-on FreeRTOS and STM32Fx with Debugging](https://www.udemy.com/course/mastering-rtos-hands-on-free-rtos-and-stm32fx-with-debugging/)”, covering FreeRTOS development, STM32Fx integration, and real-time debugging with SEGGER SystemView.
